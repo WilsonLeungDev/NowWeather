@@ -9,8 +9,6 @@ NowWeather App is designed to show current weather info of your living district 
 
 - Go to ./NowWeather/Managers/WeatherManager.swift and replace your api key with the placeholder.
 
-- Add the lottie dependency (https://github.com/airbnb/lottie-ios.git) into Xcode through Swift Package Manager
-
 - Run and test
 
 ## Screenshots
