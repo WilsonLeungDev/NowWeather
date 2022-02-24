@@ -1,6 +1,6 @@
 # NowWeather App
 
-NowWeather App is designed to show current weather info of your living district in Hong Kong, by using SwiftUI, Lottie Animations and the OpenWeatherMap API.
+NowWeather App is designed to show current weather info of your living district in Hong Kong, by using SwiftUI and the OpenWeatherMap API.
 
 ## Getting Started
 - Create an account from OpenWeatherMap API ([link](https://home.openweathermap.org/users/sign_in)) 
