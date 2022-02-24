@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": 114.1866,
+        "lat": 22.3392
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 10.33,
+        "feels_like": 9.85,
+        "temp_min": 8.69,
+        "temp_max": 11.52,
+        "pressure": 1023,
+        "humidity": 93
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.92,
+        "deg": 350
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1645544403,
+    "sys": {
+        "type": 2,
+        "id": 47808,
+        "country": "HK",
+        "sunrise": 1645483830,
+        "sunset": 1645525407
+    },
+    "timezone": 28800,
+    "id": 1819273,
+    "name": "Nga Tsin Wai",
+    "cod": 200
+}
